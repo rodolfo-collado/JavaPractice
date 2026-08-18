@@ -12,7 +12,7 @@ public class MenuOperacionesMatematicas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        String opcion = "";
+        String opcion;
         double n1 = 0;
         double n2 = 0;
         do{
